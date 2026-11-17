@@ -1,0 +1,4 @@
+build/
+build-ui/
+.vs/
+*.user
